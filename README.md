@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<h2>Tecnología Usada</h2>
+<h2><b>Tecnología Usada</b></h2>
 
 ![PHP](https://img.shields.io/badge/PHP-8.3-F9D5E5?style=for-the-badge&logo=php&logoColor=white&labelColor=D9A5BD)
 ![Laravel](https://img.shields.io/badge/Laravel-13-FAC8C3?style=for-the-badge&logo=laravel&logoColor=white&labelColor=E79A94)
@@ -9,4 +9,4 @@
 ![Git](https://img.shields.io/badge/Git-FDEBD0?style=for-the-badge&logo=git&logoColor=white&labelColor=F0B27A)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FFE0B2?style=for-the-badge&logo=xampp&logoColor=white&labelColor=FB7A24)
 
-<h3>Evidencia y capturas</h3>
+<h2>Evidencia y capturas</h2>
