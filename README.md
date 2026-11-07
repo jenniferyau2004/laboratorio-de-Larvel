@@ -10,3 +10,16 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FFE0B2?style=for-the-badge&logo=xampp&logoColor=white&labelColor=FB7A24)
 
 <h2>Evidencia y capturas</h2>
+<h3> Entrada </h3>
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/0ef17520-ff26-4268-981f-dbfb8b5fcb26" />
+<h3>login</h3>
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/f8ed4392-89ca-45bb-a8ac-e024e0d80b3e" />
+<img width="1600" height="531" alt="image" src="https://github.com/user-attachments/assets/fc55cb0c-afe7-4699-b9c6-6bc89dbefdc9" />
+<h3>Registro</h3>
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/cd066632-1459-42fd-95ac-5085ea87a158" />
+
+<h3>Activar el servidor</h3>
+<img width="861" height="347" alt="image" src="https://github.com/user-attachments/assets/617bea26-c964-43eb-81e1-56e1d7728a9d" />
+
+
+
